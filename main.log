@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.2.22)  22 FEB 2019 21:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.2.22)  22 FEB 2019 22:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -134,22 +134,7 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_below_intertext_sep=\dimen119
 \l_MT_above_shortintertext_sep=\dimen120
 \l_MT_below_shortintertext_sep=\dimen121
-) (/home/dev/dev/riscv/invent-a-chip/main.aux (/home/dev/dev/riscv/invent-a-chip/Vorwort.aux) (/home/dev/dev/riscv/invent-a-chip/chip.aux))
-\openout1 = `main.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
@@ -161,20 +146,42 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 99.
  (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
+) (/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip settings
+\@dblbotnum=\count106
+\c@dblbotnumber=\count107
+) (/home/dev/dev/riscv/invent-a-chip/main.aux (/home/dev/dev/riscv/invent-a-chip/Vorwort.aux) (/home/dev/dev/riscv/invent-a-chip/chip.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
-\scratchdimen=\dimen122
+\scratchcounter=\count108
+\scratchdimen=\dimen124
 \scratchbox=\box28
-\nofMPsegments=\count107
-\nofMParguments=\count108
+\nofMPsegments=\count109
+\nofMParguments=\count110
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count109
-\MPscratchDim=\dimen123
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen125
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
 \everyMPtoPDFconversion=\toks23
-))) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -210,79 +217,83 @@ Package grfext Info: Graphics extension search list:
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\Gin@req@height=\dimen124
-\Gin@req@width=\dimen125
-)
 \openout2 = `Vorwort.aux'.
 
  (/home/dev/dev/riscv/invent-a-chip/Vorwort.tex) [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
  [2
 
 ]
 \openout2 = `chip.aux'.
 
- (/home/dev/dev/riscv/invent-a-chip/chip.tex)
-Overfull \hbox (3.05583pt too wide) in paragraph at lines 3--27
+ (/home/dev/dev/riscv/invent-a-chip/chip.tex
+Overfull \hbox (3.05583pt too wide) in paragraph at lines 5--14
 \OT1/cmr/m/n/10 Recent break-throughs in ma-chine learn-
  []
 
 
-Overfull \hbox (2.36142pt too wide) in paragraph at lines 3--27
+Overfull \hbox (2.36142pt too wide) in paragraph at lines 5--14
 \OT1/cmr/m/n/10 con-vo-lu-tional net-works(CNNs) have led
  []
 
 
-Overfull \hbox (2.08368pt too wide) in paragraph at lines 3--27
+Overfull \hbox (2.08368pt too wide) in paragraph at lines 5--14
 \OT1/cmr/m/n/10 racy, speed and ver-sa-til-ity of non-trivial
  []
 
 
-Overfull \hbox (0.97249pt too wide) in paragraph at lines 3--27
+Overfull \hbox (0.97249pt too wide) in paragraph at lines 5--14
 \OT1/cmr/m/n/10 like em-bed-ded de-vices to profit of state-
  []
 
 
-Overfull \hbox (2.60213pt too wide) in paragraph at lines 3--27
+Overfull \hbox (2.60213pt too wide) in paragraph at lines 5--14
 \OT1/cmr/m/n/10 of-the-art ma-chine learn-ing. The RISC-
  []
 
 
-Overfull \hbox (3.02808pt too wide) in paragraph at lines 3--27
+Overfull \hbox (3.02808pt too wide) in paragraph at lines 5--14
 \OT1/cmr/m/n/10 ac-cel-er-a-tion cores through our pro-posed
  []
 
 
-Overfull \hbox (12.08365pt too wide) in paragraph at lines 3--27
+Overfull \hbox (12.08365pt too wide) in paragraph at lines 5--14
 \OT1/cmr/m/n/10 im-ple-men-ta-tion of their ac-cel-er-a-tors while
  []
 
+<Typical_cnn.png, id=19, 1043.9pt x 321.2pt>
+File: Typical_cnn.png Graphic file (type png)
+<use Typical_cnn.png>
+Package pdftex.def Info: Typical_cnn.png  used on input line 22.
+(pdftex.def)             Requested size: 345.0pt x 106.15315pt.
 [3
 
 
 
+ </home/dev/dev/riscv/invent-a-chip/Typical_cnn.png>]) [4
+
 ] (/home/dev/dev/riscv/invent-a-chip/main.aux (/home/dev/dev/riscv/invent-a-chip/Vorwort.aux) (/home/dev/dev/riscv/invent-a-chip/chip.aux)) ) 
 Here is how much of TeX's memory you used:
- 3241 strings out of 492641
- 46848 string characters out of 6131787
- 125213 words of memory out of 5000000
- 7061 multiletter control sequences out of 15000+600000
- 9890 words of font info for 36 fonts, out of 8000000 for 9000
+ 3276 strings out of 492641
+ 47471 string characters out of 6131787
+ 126552 words of memory out of 5000000
+ 7088 multiletter control sequences out of 15000+600000
+ 10226 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,30p,326b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on /home/dev/dev/riscv/invent-a-chip/main.pdf (3 pages, 104153 bytes).
+ 41i,11n,25p,305b,367s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on /home/dev/dev/riscv/invent-a-chip/main.pdf (4 pages, 234060 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
