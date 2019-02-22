@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.2.22)  22 FEB 2019 18:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.2.22)  22 FEB 2019 21:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/dev/dev/riscv/invent_a_chip/main.tex
-(/home/dev/dev/riscv/invent_a_chip/main.tex
+**/home/dev/dev/riscv/invent-a-chip/main.tex
+(/home/dev/dev/riscv/invent-a-chip/main.tex
 LaTeX2e <2018-04-01> patch level 5
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -134,21 +134,21 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_below_intertext_sep=\dimen119
 \l_MT_above_shortintertext_sep=\dimen120
 \l_MT_below_shortintertext_sep=\dimen121
-) (/home/dev/dev/riscv/invent_a_chip/main.aux (/home/dev/dev/riscv/invent_a_chip/Vorwort.aux) (/home/dev/dev/riscv/invent_a_chip/chip.aux))
+) (/home/dev/dev/riscv/invent-a-chip/main.aux (/home/dev/dev/riscv/invent-a-chip/Vorwort.aux) (/home/dev/dev/riscv/invent-a-chip/chip.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
@@ -215,34 +215,71 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )
 \openout2 = `Vorwort.aux'.
 
- (/home/dev/dev/riscv/invent_a_chip/Vorwort.tex) [1
+ (/home/dev/dev/riscv/invent-a-chip/Vorwort.tex) [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
  [2
 
 ]
 \openout2 = `chip.aux'.
 
- (/home/dev/dev/riscv/invent_a_chip/chip.tex) [3
+ (/home/dev/dev/riscv/invent-a-chip/chip.tex)
+Overfull \hbox (3.05583pt too wide) in paragraph at lines 3--27
+\OT1/cmr/m/n/10 Recent break-throughs in ma-chine learn-
+ []
 
-] (/home/dev/dev/riscv/invent_a_chip/main.aux (/home/dev/dev/riscv/invent_a_chip/Vorwort.aux) (/home/dev/dev/riscv/invent_a_chip/chip.aux)) ) 
+
+Overfull \hbox (2.36142pt too wide) in paragraph at lines 3--27
+\OT1/cmr/m/n/10 con-vo-lu-tional net-works(CNNs) have led
+ []
+
+
+Overfull \hbox (2.08368pt too wide) in paragraph at lines 3--27
+\OT1/cmr/m/n/10 racy, speed and ver-sa-til-ity of non-trivial
+ []
+
+
+Overfull \hbox (0.97249pt too wide) in paragraph at lines 3--27
+\OT1/cmr/m/n/10 like em-bed-ded de-vices to profit of state-
+ []
+
+
+Overfull \hbox (2.60213pt too wide) in paragraph at lines 3--27
+\OT1/cmr/m/n/10 of-the-art ma-chine learn-ing. The RISC-
+ []
+
+
+Overfull \hbox (3.02808pt too wide) in paragraph at lines 3--27
+\OT1/cmr/m/n/10 ac-cel-er-a-tion cores through our pro-posed
+ []
+
+
+Overfull \hbox (12.08365pt too wide) in paragraph at lines 3--27
+\OT1/cmr/m/n/10 im-ple-men-ta-tion of their ac-cel-er-a-tors while
+ []
+
+[3
+
+
+
+] (/home/dev/dev/riscv/invent-a-chip/main.aux (/home/dev/dev/riscv/invent-a-chip/Vorwort.aux) (/home/dev/dev/riscv/invent-a-chip/chip.aux)) ) 
 Here is how much of TeX's memory you used:
  3241 strings out of 492641
  46848 string characters out of 6131787
- 123213 words of memory out of 5000000
+ 125213 words of memory out of 5000000
  7061 multiletter control sequences out of 15000+600000
  9890 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,30p,326b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on /home/dev/dev/riscv/invent_a_chip/main.pdf (3 pages, 101484 bytes).
+Output written on /home/dev/dev/riscv/invent-a-chip/main.pdf (3 pages, 104153 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
